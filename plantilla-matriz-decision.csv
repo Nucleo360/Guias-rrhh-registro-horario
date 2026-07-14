@@ -1,0 +1,9 @@
+﻿Criterio;Peso (%);Qué evaluar;Proveedor A (1-10);Proveedor B (1-10);Proveedor C (1-10);Notas
+"Cumplimiento normativo español";25;"Registro diario inalterable y trazable (RD-ley 8/2019 y art. 34.9 ET) · conservación 4 años · informe para Inspección · canal de denuncias (Ley 2/2023)";;;;
+"Precio total";20;"Precio por usuario/mes de cada plan · plan gratuito · permanencia · costes ocultos · coste total del primer año";;;;
+"Facilidad de uso";15;"Curva de aprendizaje para empleados sin perfil técnico · claridad de la interfaz · alta por CSV/XLSX";;;;
+"Soporte en español";15;"Soporte humano en español desde España · canales y horario · asesoramiento normativo incluido";;;;
+"Fichaje móvil y WhatsApp";10;"Fichaje desde móvil · fichaje por WhatsApp para personal en movilidad · registro de ubicación";;;;
+"Seguridad y RGPD";10;"Dónde se alojan los datos · control de accesos por rol · trazabilidad de acciones · información a la plantilla";;;;
+"Escalabilidad";5;"Cambio de plan sin perder datos · funciona igual al crecer la plantilla · export a nóminas";;;;
+"TOTAL";100;"Puntuación ponderada = suma de (nota × peso ÷ 100) por proveedor";;;;
