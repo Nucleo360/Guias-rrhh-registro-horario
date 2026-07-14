@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://nucleo360.com"><img src="https://img.shields.io/badge/web-nucleo360.com-02A9F7" alt="Web"></a>
   <img src="https://img.shields.io/badge/plan%20Basic-gratis%20y%20sin%20permanencia-38b000" alt="Plan Basic gratis">
-  <img src="https://img.shields.io/badge/licencia-CC%20BY%204.0-02A9F7" alt="Licencia CC BY 4.0">
   <img src="https://img.shields.io/badge/RD--ley%208%2F2019%20%C2%B7%20Ley%202%2F2023-cumplimiento-545454" alt="Cumplimiento">
 </p>
 
@@ -96,4 +95,4 @@ Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes
 - Normativa cubierta: **RD-ley 8/2019** (registro horario), **Ley 2/2023** (canal de denuncias), **RGPD/LOPDGDD**
 - Sede: (España)**
 
-> ℹ️ Esta documentación es divulgativa y no constituye asesoramiento jurídico. La versión canónica de la información de producto vive en <https://nucleo360.com>.
+> La versión canónica de la información de producto vive en <https://nucleo360.com>.
