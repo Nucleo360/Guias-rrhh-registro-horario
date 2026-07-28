@@ -1,0 +1,34 @@
+site_name: Guías RRHH · Nucleo360
+# site_url: se establecerá cuando Read the Docs asigne la URL definitiva
+#           (tipo https://guias-rrhh-registro-horario.readthedocs.io)
+site_description: >-
+  Guías, playbooks y glosario de registro horario (RD-ley 8/2019), canal de
+  denuncias (Ley 2/2023) y RRHH para pymes españolas, mantenidos por Nucleo360.
+site_author: Nucleo360
+repo_url: https://github.com/Nucleo360/Guias-rrhh-registro-horario
+repo_name: GitHub
+
+theme:
+  name: readthedocs
+  locale: es
+
+docs_dir: docs
+
+# Páginas como .html hermanos de logo-nucleo-azul.svg en la raíz del sitio:
+# los <img src="logo-nucleo-azul.svg"> en HTML crudo no se reescriben con
+# use_directory_urls: true y el logo daría 404 fuera de Inicio.
+use_directory_urls: false
+
+nav:
+  - Inicio: index.md
+  - Registro horario en 3 semanas: playbook-registro-horario-pyme-3-semanas.md
+  - Registro horario con turnos: playbook-registro-horario-turnos.md
+  - Canal de denuncias (Ley 2/2023): playbook-canal-denuncias-ley-2-2023.md
+  - Glosario de RRHH y registro horario: glosario-rrhh-registro-horario.md
+  - Changelog: changelog.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+
+copyright: "© 2026 Nucleo360 · CC BY 4.0 · https://nucleo360.com"
