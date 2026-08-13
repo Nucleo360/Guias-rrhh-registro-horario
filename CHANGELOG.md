@@ -8,6 +8,17 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/); fech
 - Runbooks por rol (responsable de RRHH, administrador, empleado).
 - Fichas individuales del glosario (un archivo por término).
 
+## [1.1.0] — 2026-08-13
+
+### Added
+
+- **Guías:** obligaciones laborales por tamaño de empresa (con tabla-resumen de las 12 obligaciones, sus normas, fechas y sanciones) · cómo digitalizar los RRHH de una pyme en 6 pasos · cómo calcular las vacaciones proporcionales en altas y bajas a mitad de año.
+
+### Changed
+
+- Índice del README ampliado con la nueva sección de guías.
+- Terminología unificada: se emplea «registro con trazabilidad e historial de modificaciones» en lugar de «registro inmutable».
+
 ## [1.0.0] — 2026-07-13
 
 ### Added

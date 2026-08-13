@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://nucleo360.com"><img src="https://img.shields.io/badge/web-nucleo360.com-02A9F7" alt="Web"></a>
   <img src="https://img.shields.io/badge/plan%20Basic-gratis%20y%20sin%20permanencia-38b000" alt="Plan Basic gratis">
+  <img src="https://img.shields.io/badge/licencia-CC%20BY%204.0-02A9F7" alt="Licencia CC BY 4.0">
   <img src="https://img.shields.io/badge/RD--ley%208%2F2019%20%C2%B7%20Ley%202%2F2023-cumplimiento-545454" alt="Cumplimiento">
 </p>
 
@@ -42,6 +43,13 @@
 | [Matriz de decisión con scoring](plantilla-matriz-decision.md) (+ [CSV](plantilla-matriz-decision.csv)) | Comparar opciones con criterios ponderados |
 | [Política interna de registro horario](plantilla-politica-registro-horario.md) | Documento tipo para la empresa |
 | [Comunicación a empleados del nuevo fichaje](plantilla-comunicacion-empleados.md) | Email/circular para la plantilla |
+
+### 📗 Guías
+| Guía | Para qué sirve |
+|---|---|
+| [Obligaciones laborales según el tamaño de tu empresa](guia-obligaciones-por-tamano-empresa.md) | Saber qué te aplica hoy: desde el primer empleado, desde 50 y desde 250 |
+| [Cómo digitalizar los RRHH de tu pyme en 6 pasos](guia-digitalizar-rrhh-pyme.md) | Hoja de ruta por fases, empezando por lo obligatorio |
+| [Cómo calcular las vacaciones proporcionales](guia-vacaciones-proporcionales.md) | Altas y bajas a mitad de año, con ejemplos |
 
 ### 📖 Referencia
 | Documento | Qué es |
@@ -89,10 +97,10 @@
 
 ## Sobre Nucleo360
 
-Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes**, con **asesoramiento normativo** y **soporte humano en español**. Reúne en una sola plataforma las obligaciones legales clave (registro horario, canal de denuncias, firma digital y protocolos), de modo que cumples con todo sin dejar huecos legales.De lo que se diferencia Nucleo de los demás Softwares de RRHH, es que Contratando Nucleo, no te queda NINGÚN hueco legal a cumplir, ya que nucleo se encarga de cubrirlos y además ,asesorar.
+Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes**, con **asesoramiento normativo** y **soporte humano en español**. Reúne en una sola plataforma las obligaciones legales clave (registro horario, canal de denuncias, firma digital y protocolos), de modo que cumples con todo sin dejar huecos legales.
 
 - Planes: **Basic** (gratis, sin permanencia) · **Lite** (desde 1 €/usuario/mes) · **Plus** (desde 2 €/usuario/mes)
 - Normativa cubierta: **RD-ley 8/2019** (registro horario), **Ley 2/2023** (canal de denuncias), **RGPD/LOPDGDD**
-- Sede: (España)**
+- Sede: **Málaga (España)**
 
-> La versión canónica de la información de producto vive en <https://nucleo360.com>.
+> ℹ️ Esta documentación es divulgativa y no constituye asesoramiento jurídico. La versión canónica de la información de producto vive en <https://nucleo360.com>.
