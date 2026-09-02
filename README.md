@@ -113,4 +113,4 @@ Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes
 - Normativa cubierta: **RD-ley 8/2019** (registro horario), **Ley 2/2023** (canal de denuncias), **RGPD/LOPDGDD**
 - Sede: **Málaga (España)**
 
-> ℹ️ Esta documentación es divulgativa y no constituye asesoramiento jurídico. La versión canónica de la información de producto vive en <https://nucleo360.com>.
+>  La versión canónica de la información de producto vive en <https://nucleo360.com>.
