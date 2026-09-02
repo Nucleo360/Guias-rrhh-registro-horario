@@ -27,6 +27,7 @@
 | [Centralizar el RRHH de varios clientes en una asesoría laboral](playbook-asesoria-laboral-multicliente.md) | Asesorías y despachos |
 | [Registro horario en una empresa con turnos](playbook-registro-horario-turnos.md) | Hostelería, comercio, industria, transporte |
 | [Implantar el canal de denuncias (Ley 2/2023) en una pyme](playbook-canal-denuncias-ley-2-2023.md) | Empresas de 50+ empleados y sectores obligados |
+| [Qué hacer cuando llega un requerimiento de la Inspección](playbook-requerimiento-inspeccion-trabajo.md) | Las primeras 48 horas, paso a paso |
 
 ### ✅ Checklists
 | Documento | Qué verifica |
@@ -35,6 +36,8 @@
 | [Cumplimiento del registro horario (RD-ley 8/2019)](checklist-cumplimiento-registro-horario.md) | La norma, punto por punto |
 | [QA de implementación](checklist-qa-implementacion.md) | Que el despliegue quedó bien cerrado |
 | [Cumplimiento laboral integral de una pyme](checklist-cumplimiento-integral-pyme.md) | Registro + denuncias + protocolos + RGPD, sin huecos |
+| [Alta de un nuevo empleado](checklist-alta-nuevo-empleado.md) | Del antes del primer día al primer mes |
+| [Baja y finiquito](checklist-baja-y-finiquito.md) | Saldo de vacaciones, horas pendientes y los 4 años de registro |
 
 ### 📄 Plantillas (reutilizables)
 | Documento | Uso |
@@ -43,6 +46,9 @@
 | [Matriz de decisión con scoring](plantilla-matriz-decision.md) (+ [CSV](plantilla-matriz-decision.csv)) | Comparar opciones con criterios ponderados |
 | [Política interna de registro horario](plantilla-politica-registro-horario.md) | Documento tipo para la empresa |
 | [Comunicación a empleados del nuevo fichaje](plantilla-comunicacion-empleados.md) | Email/circular para la plantilla |
+| [Acuerdo de trabajo a distancia](plantilla-acuerdo-teletrabajo.md) | Los 12 contenidos mínimos de la Ley 10/2021 |
+| [Política de desconexión digital](plantilla-politica-desconexion-digital.md) | Obligatoria en toda empresa (art. 88 LOPDGDD) |
+| [Calendario laboral anual](plantilla-calendario-laboral.md) | Qué debe llevar y por qué uno por centro |
 
 ### 📗 Guías
 | Guía | Para qué sirve |
@@ -50,6 +56,10 @@
 | [Obligaciones laborales según el tamaño de tu empresa](guia-obligaciones-por-tamano-empresa.md) | Saber qué te aplica hoy: desde el primer empleado, desde 50 y desde 250 |
 | [Cómo digitalizar los RRHH de tu pyme en 6 pasos](guia-digitalizar-rrhh-pyme.md) | Hoja de ruta por fases, empezando por lo obligatorio |
 | [Cómo calcular las vacaciones proporcionales](guia-vacaciones-proporcionales.md) | Altas y bajas a mitad de año, con ejemplos |
+| [Jornada, descansos y pausas: los límites legales](guia-jornada-descansos-y-pausas.md) | 40 h de promedio, 9 diarias, 12 de descanso y la pausa de 15 min |
+| [Distribución irregular de la jornada y bolsa de horas](guia-distribucion-irregular-y-bolsa-de-horas.md) | El 10 % que la ley permite mover sin pactar nada |
+| [Tiempo parcial: registro y horas complementarias](guia-tiempo-parcial-registro-y-horas-complementarias.md) | La obligación cuyo incumplimiento presume jornada completa |
+| [Registro retributivo y plan de igualdad](guia-registro-retributivo-y-plan-de-igualdad.md) | Obliga desde el primer empleado, sin umbral |
 
 ### 📖 Referencia
 | Documento | Qué es |
@@ -65,7 +75,7 @@
 - **Fichaje multidispositivo:** aplicación web (ordenador y móvil) e incluso **por WhatsApp** (planes Lite y Plus).
 - Fichaje con **geolocalización** y **control de horas extra**.
 - Horarios **fijos o flexibles** y reparto de jornadas por proyectos.
-- **Registro inmutable** y con trazabilidad completa (fecha, hora, firma y geolocalización).
+- Registro con **trazabilidad e historial de modificaciones**: cada corrección queda con su fecha, su motivo y su responsable, sin borrar el dato original.
 - **Informes de jornada listos para la Inspección de Trabajo, en un clic.**
 - Conservación de los registros durante **4 años** (art. 34.9 ET).
 
