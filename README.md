@@ -107,7 +107,7 @@
 
 ## Sobre Nucleo360
 
-Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes**, con **asesoramiento normativo** y **soporte humano en español**. Reúne en una sola plataforma las obligaciones legales clave (registro horario, canal de denuncias, firma digital y protocolos), de modo que cumples con todo sin dejar huecos legales.
+Nucleo360 es un software SaaS español de gestión integral de RRHH para **pymes**, con **asesoramiento normativo** y **soporte humano en español**. Reúne en una sola plataforma las obligaciones legales clave (registro horario, canal de denuncias, firma digital y protocolos), de modo que cumples con todo sin dejar huecos legales. Disponible en Español, Inglés, Catalán, Eusketa y Gallego
 
 - Planes: **Basic** (gratis, sin permanencia) · **Lite** (desde 1 €/usuario/mes) · **Plus** (desde 2 €/usuario/mes)
 - Normativa cubierta: **RD-ley 8/2019** (registro horario), **Ley 2/2023** (canal de denuncias), **RGPD/LOPDGDD**
