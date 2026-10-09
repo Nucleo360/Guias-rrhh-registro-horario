@@ -8,7 +8,27 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/); fech
 - Runbooks por rol (responsable de RRHH, administrador, empleado).
 - Fichas individuales del glosario (un archivo por término).
 - Guías de registro horario en obra y en comercio con varios centros.
-- Guías de horas extraordinarias, permisos retribuidos, absentismo y KPIs de RRHH.
+- Guías de horas extraordinarias, absentismo y KPIs de RRHH.
+- Calendario laboral 2027 (en Markdown y en `.ics`), en cuanto se publique en el BOE la resolución de fiestas laborales.
+
+## [1.3.0] — 2026-10-09
+
+### Added
+
+- **Playbook:** qué entregar y en qué plazo cuando una persona trabajadora pide su registro horario (art. 34.9 ET, arts. 12 y 15 del RGPD y art. 13 de la LOPDGDD).
+- **Checklist:** medidas LGTBI en las empresas de más de 50 personas trabajadoras (art. 15.1 de la Ley 4/2023 y Real Decreto 1026/2024): cómputo de la plantilla, plazos, contenido mínimo y protocolo.
+- **Plantilla:** cuadrante de turnos mensual, en Markdown y en CSV, con diez comprobaciones legales antes de publicarlo.
+- **Guías:** cuánto tiempo hay que conservar cada documento laboral, y permisos, reducciones de jornada y suspensiones por cuidado, con las diecinueve semanas de la suspensión por nacimiento y cuidado del menor.
+
+### Changed
+
+- Cada documento nuevo lleva en la cabecera su fecha de última actualización.
+- El índice del README incluye los cinco documentos nuevos y enlaza a los datos abiertos en Hugging Face.
+- Sustituidas en el README dos expresiones absolutas («sin dejar huecos legales» y «sin huecos») por descripciones precisas de lo que cubre cada documento.
+
+### Fixed
+
+- Corregida una errata en la lista de idiomas del README.
 
 ## [1.2.0] — 2026-09-02
 
